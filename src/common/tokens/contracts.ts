@@ -575,103 +575,478 @@ module.exports = {
     "0xaa0bb10cec1fa372eb3abc17c933fc6ba863dd9e": {
         id: "hi-mutual-society"
     },
-    "": {
-        id: ""
+    "0xea1f346faf023f974eb5adaf088bbcdf02d761f4": {
+        id: "blocktix"
     },
-    "": {
-        id: ""
+    "0x7728dfef5abd468669eb7f9b48a7f70a501ed29d": {
+        id: "paragon"
     },
-    "": {
-        id: ""
+    "0x80bc5512561c7f85a3a9508c7df7901b370fa1df": {
+        id: "trade-token"
     },
-    "": {
-        id: ""
+    "0x264dc2dedcdcbb897561a57cba5085ca416fb7b4": {
+        id: "qunqun"
     },
-    "": {
-        id: ""
+    "0xc27a2f05fa577a83ba0fdb4c38443c0718356501": {
+        id: "lamden"
     },
-    "": {
-        id: ""
+    "0x68aa3f232da9bdc2343465545794ef3eea5209bd": {
+        id: "mothership"
     },
-    "": {
-        id: ""
+    "0x82b0e50478eeafde392d45d1259ed1071b6fda81": {
+        id: "encrypgen"
     },
-    "": {
-        id: ""
+    "0x461733c17b0755ca5649b6db08b3e213fcf22546": {
+        id: "atn"
     },
-    "": {
-        id: ""
+    "0x0bb217e40f8a5cb79adf04e1aab60e5abd0dfc1e": {
+        id: "swftcoin"
     },
-    "": {
-        id: ""
+    "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf": {
+        id: "latoken"
     },
-    "": {
-        id: ""
+    "0xcdcfc0f66c522fd086a1b725ea3c0eeb9f9e8814": {
+        id: "aurora-dao"
     },
-    "": {
-        id: ""
+    "0x51db5ad35c671a87207d88fc11d593ac0c8415bd": {
+        id: "moeda-loyalty-points"
     },
-    "": {
-        id: ""
+    "0x6425c6be902d692ae2db752b3c268afadb099d3b": {
+        id: "restart-energy-mwat"
     },
-    "": {
-        id: ""
+    "0xe2fb6529ef566a080e6d23de0bd351311087d567": {
+        id: "covesting"
     },
-    "": {
-        id: ""
+    "0x64cdf819d3e75ac8ec217b3496d7ce167be42e80": {
+        id: "insurepal"
     },
-    "": {
-        id: ""
+    "0x701c244b988a513c945973defa05de933b23fe1d": {
+        id: "oax"
     },
-    "": {
-        id: ""
+    "0xaf30d2a7e90d7dc361c8c4585e9bb7d2f6f15bc7": {
+        id: "firstblood"
     },
-    "": {
-        id: ""
+    "0x9af4f26941677c706cfecf6d3379ff01bb85d5ab": {
+        id: "domraider"
     },
-    "": {
-        id: ""
+    "0x3d1ba9be9f66b8ee101911bc36d3fb562eac2244": {
+        id: "rivetz"
     },
-    "": {
-        id: ""
+    "0x2d0e95bd4795d7ace0da3c0ff7b706a5970eb9d3": {
+        id: "all-sports"
     },
-    "": {
-        id: ""
+    "0x13f11c9905a08ca76e3e853be63d4f0944326c72": {
+        id: "divi"
     },
-    "": {
-        id: ""
+    "0xfca47962d45adfdfd1ab2d972315db4ce7ccf094": {
+        id: "ixledger"
     },
-    "": {
-        id: ""
+    "0xa823e6722006afe99e91c30ff5295052fe6b8e32": {
+        id: "neumark"
     },
-    "": {
-        id: ""
+    "0x5d51fcced3114a8bb5e90cdd0f9d682bcbcc5393": {
+        id: "b2bx"
     },
-    "": {
-        id: ""
+    "0xb24754be79281553dc1adc160ddf5cd9b74361a4": {
+        id: "rialto"
     },
-    "": {
-        id: ""
+    "0xbdc5bac39dbe132b1e030e898ae3830017d7d969": {
+        id: "snovio"
     },
-    "": {
-        id: ""
+    "0x1234567461d3f8db7496581774bd869c83d51c93": {
+        id: "bitclave"
     },
-    "": {
-        id: ""
+    "0x1961b3331969ed52770751fc718ef530838b6dee": {
+        id: "bitdegree"
     },
-    "": {
-        id: ""
+    "0xea610b1153477720748dc13ed378003941d84fab": {
+        id: "alis"
     },
-    "": {
-        id: ""
+    "0xac3da587eac229c9896d919abc235ca4fd7f72c1": {
+        id: "target-coin"
     },
-    "": {
-        id: ""
+    "0x0abefb7611cb3a01ea3fad85f33c3c934f8e2cf4": {
+        id: "farad"
     },
-    "": {
-        id: ""
+    "0x94298f1e0ab2dfad6eeffb1426846a3c29d98090": {
+        id: "mybit-token"
     },
-    "": {
-        id: ""
-    }
+    "0x52a7cb918c11a16958be40cba7e31e32a499a465": {
+        id: "fidentiax"
+    },
+    "0xb9e7f8568e08d5659f5d29c4997173d84cdf2607": {
+        id: "swarm-city"
+    },
+    "0x7654915a1b82d6d2d0afc37c52af556ea8983c7e": {
+        id: "investfeed"
+    },
+    "0x263c618480dbe35c300d8d5ecda19bbb986acaed": {
+        id: "olympus-labs"
+    },
+    "0x5e6016ae7d7c49d347dcf834860b9f3ee282812b": {
+        id: "eztoken"
+    },
+    "0x006bea43baa3f7a6f765f14f10a1a1b08334ef45": {
+        id: "stox"
+    },
+    "0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53": {
+        id: "chronobank"
+    },
+    "0xc324a2f6b05880503444451b8b27e6f9e63287cb": {
+        id: "exchange-union"
+    },
+    "0x27dce1ec4d3f72c3e457cc50354f1f975ddef488": {
+        id: "airtoken"
+    },
+    "0x3137619705b5fc22a3048989f983905e456b59ab": {
+        id: "everus"
+    },
+    "0x9af2c6b1a28d3d6bc084bd267f70e90d49741d5b": {
+        id: "axpire"
+    },
+    "0x8377ee6d3545bc6ff1425ee3015dc648b149c7b2": {
+        id: "prochain"
+    },
+    "0x881ef48211982d01e2cb7092c915e647cd40d85c": {
+        id: "open-trading-network"
+    },
+    "0x9e6b2b11542f2bc52f3029077ace37e8fd838d7f": {
+        id: "hacken"
+    },
+    "0xdd6c68bb32462e01705011a4e2ad1a60740f217f": {
+        id: "hubii-network"
+    },
+    "0x4df812f6064def1e5e029f1ca858777cc98d2d81": {
+        id: "xaurum"
+    },
+    "0x83984d6142934bb535793a82adb0a46ef0f66b6d": {
+        id: "remme"
+    },
+    "0x9b68bfae21df5a510931a262cecf63f41338f264": {
+        id: "decent-bet"
+    },
+    "0x3136ef851592acf49ca4c825131e364170fa32b3": {
+        id: "coinfi"
+    },
+    "0x8ae4bf2c33a8e667de34b54938b0ccd03eb8cc06": {
+        id: "patientory"
+    },
+    "0x29d75277ac7f0335b2165d0895e8725cbf658d73": {
+        id: "bitdice"
+    },
+    "0x45e42d659d9f9466cd5df622506033145a9b89bc": {
+        id: "nexium"
+    },
+    "0x2fa32a39fc1c399e0cc7b2935868f5165de7ce97": {
+        id: "payfair"
+    },
+    "0xd8912c10681d8b21fd3742244f44658dba12264e": {
+        id: "pluton"
+    },
+    "0x9af839687f6c94542ac5ece2e317daae355493a1": {
+        id: "hydro-protocol"
+    },
+    "0xeb7c20027172e5d143fb030d50f91cece2d1485d": {
+        id: "ebtcnew"
+    },
+    "0x56ba2ee7890461f463f7be02aac3099f6d5811a8": {
+        id: "blockcat"
+    },
+    "0xa645264c5603e96c3b0b078cdab68733794b0a71": {
+        id: "mysterium"
+    },
+    "0x85089389c14bd9c77fc2b8f0c3d1dc3363bf06ef": {
+        id: "sportyco"
+    },
+    "0xba2184520a1cc49a6159c57e61e1844e085615b6": {
+        id: "hellogold"
+    },
+    "0xe3fedaecd47aa8eab6b23227b0ee56f092c967a9": {
+        id: "primas"
+    },
+    "0x5e3346444010135322268a4630d2ed5f8d09446c": {
+        id: "lockchain"
+    },
+    "0x0affa06e7fbe5bc9a764c979aa66e8256a631f02": {
+        id: "polybius"
+    },
+    "0x5b0751713b2527d7f002c0c4e2a37e1219610a6b": {
+        id: "ethorse"
+    },
+    "0x4e0603e2a27a30480e5e3a4fe548e29ef12f64be": {
+        id: "credo"
+    },
+    "0x814e0908b12a99fecf5bc101bb5d0b8b5cdf7d26": {
+        id: "measurable-data-token"
+    },
+    "0xff603f43946a3a28df5e6a73172555d8c8b02386": {
+        id: "oneroot-network"
+    },
+    "0x5f53f7a8075614b699baad0bc2c899f4bad8fbbf": {
+        id: "rebellious"
+    },
+    "0x8a854288a5976036a725879164ca3e91d30c6a1b": {
+        id: "get-protocol"
+    },
+    "0x999967e2ec8a74b7c8e9db19e039d920b31d39d0": {
+        id: "tiesdb"
+    },
+    "0xbc86727e770de68b1060c91f6bb6945c73e10388": {
+        id: "ink-protocol"
+    },
+    "0xd2d6158683aee4cc838067727209a0aaf4359de3": {
+        id: "bounty0x"
+    },
+    "0xaadb05f449072d275833baf7c82e8fca4ee46575": {
+        id: "spectre-utility"
+    },
+    "0x539efe69bcdd21a83efd9122571a64cc25e0282b": {
+        id: "ethereum-blue"
+    },
+    "0xf77f4810e7521298a6e2a04f82a6c3492706d74f": {
+        id: "coinmeet"
+    },
+    "0xb6ee9668771a79be7967ee29a63d4184f8097143": {
+        id: "cargox"
+    },
+    "0x3839d8ba312751aa0248fed6a8bacb84308e20ed": {
+        id: "bezop"
+    },
+    "0xc8c6a31a4a806d3710a7b38b7b296d2fabccdba8": {
+        id: "elixir"
+    },
+    "0x72adadb447784dd7ab1f472467750fc485e4cb2d": {
+        id: "worldcore"
+    },
+    "0x7b22938ca841aa392c93dbb7f4c42178e3d65e88": {
+        id: "astro"
+    },
+    "0xa6a840e50bcaa50da017b91a0d86b8b2d41156ee": {
+        id: "echolink"
+    },
+    "0x0d88ed6e74bbfd96b831231638b66c05571e824f": {
+        id: "aventus"
+    },
+    "0xea5f88e54d982cbb0c441cde4e79bc305e5b43bc": {
+        id: "pareto-network"
+    },
+    "0x2604fa406be957e542beb89e6754fcde6815e83f": {
+        id: "playkey"
+    },
+    "0x0f4ca92660efad97a9a70cb0fe969c755439772c": {
+        id: "leverj"
+    },
+    "0x37e8789bb9996cac9156cd5f5fd32599e6b91289": {
+        id: "aidcoin"
+    },
+    "0x621d78f2ef2fd937bfca696cabaf9a779f59b3ed": {
+        id: "dcorp"
+    },
+    "0x83eea00d838f92dec4d1475697b9f4d3537b56e3": {
+        id: "voisecom"
+    },
+    "0xf689bb4b063683a9ffd7a9295106f1e47c095809": {
+        id: "jet8"
+    },
+    "0xa5f8fc0921880cb7342368bd128eb8050442b1a1": {
+        id: "block-array"
+    },
+    "0xf04a8ac553fcedb5ba99a64799155826c136b0be": {
+        id: "flixxo"
+    },
+    "0x705ee96c1c160842c92c1aecfcffccc9c412e3d9": {
+        id: "clearpoll"
+    },
+    "0xff18dbc487b4c2e3222d115952babfda8ba52f5f": {
+        id: "life"
+    },
+    "0x8dd5fbce2f6a956c3022ba3663759011dd51e73e": {
+        id: "true-usd"
+    },
+    "0xf05a9382a4c3f29e2784502754293d88b835109c": {
+        id: "real-estate-tokens"
+    },
+    "0xa7f976c360ebbed4465c2855684d1aae5271efa9": {
+        id: "trueflip"
+    },
+    "0x923108a439c4e8c2315c4f6521e5ce95b44e9b4c": {
+        id: "devery"
+    },
+    "0x9720b467a710382a232a32f540bdced7d662a10b": {
+        id: "vezt"
+    },
+    "0xe477292f1b3268687a29376116b0ed27a9c76170": {
+        id: "herocoin"
+    },
+    "0x5554e04e76533e1d14c52f05beef6c9d329e1e30": {
+        id: "autonio"
+    },
+    "0x74ceda77281b339142a36817fa5f9e29412bab85": {
+        id: "eroscoin"
+    },
+    "0x9c23d67aea7b95d80942e3836bcdf7e708a747c2": {
+        id: "locicoin"
+    },
+    "0x3a92bd396aef82af98ebc0aa9030d25a23b11c6b": {
+        id: "tokenbox"
+    },
+    "0x17fd666fa0784885fa1afec8ac624d9b7e72b752": {
+        id: "flik"
+    },
+    "0xa8006c4ca56f24d6836727d106349320db7fef82": {
+        id: "internxt"
+    },
+    "0xb62d18dea74045e822352ce4b3ee77319dc5ff2f": {
+        id: "eventchain"
+    },
+    "0x8effd494eb698cc399af6231fccd39e08fd20b15": {
+        id: "lampix"
+    },
+    "0x4355fc160f74328f9b383df2ec589bb3dfd82ba0": {
+        id: "opus"
+    },
+    "0xac3211a5025414af2866ff09c23fc18bc97e79b1": {
+        id: "dovu"
+    },
+    "0x672a1ad4f667fb18a333af13667aa0af1f5b5bdd": {
+        id: "verify"
+    },
+    "0x0ebb614204e47c09b6c3feb9aaecad8ee060e23e": {
+        id: "cryptopay"
+    },
+    "0x24ddff6d8b8a42d835af3b440de91f3386554aa4": {
+        id: "iungo"
+    },
+    "0x55648de19836338549130b1af587f16bea46f66b": {
+        id: "publica"
+    },
+    "0xfd8971d5e8e1740ce2d0a84095fca4de729d0c16": {
+        id: "zilla"
+    },
+    "0x93e682107d1e9defb0b5ee701c71707a4b2e46bc": {
+        id: "mcap"
+    },
+    "0xaef38fbfbf932d1aef3b808bc8fbd8cd8e1f8bc5": {
+        id: "creditbit"
+    },
+    "0x2baac9330cf9ac479d819195794d79ad0c7616e3": {
+        id: "adbank"
+    },
+    "0x519475b31653e46d20cd09f9fdcf3b12bdacb4f5": {
+        id: "viuly"
+    },
+    "0x1063ce524265d5a3a624f4914acd573dd89ce988": {
+        id: "aigang"
+    },
+    "0xea097a2b1db00627b2fa17460ad260c016016977": {
+        id: "upfiring"
+    },
+    "0x9002d4485b7594e3e850f0a206713b305113f69e": {
+        id: "hawala-today"
+    },
+    "0xd7631787b4dcc87b1254cfd1e5ce48e96823dee8": {
+        id: "sociall"
+    },
+    "0xf44745fbd41f6a1ba151df190db0564c5fcc4410": {
+        id: "copytrack"
+    },
+    "0x5c543e7ae0a1104f78406c340e9c64fd9fce5170": {
+        id: "vslice"
+    },
+    "0x30cecb5461a449a90081f5a5f55db4e048397bab": {
+        id: "tracto"
+    },
+    "0xcc34366e3842ca1bd36c1f324d15257960fcc801": {
+        id: "bonpay"
+    },
+    "0x05c7065d644096a4e4c3fe24af86e36de021074b": {
+        id: "lendconnect"
+    },
+    "0xf6cfe53d6febaeea051f400ff5fc14f0cbbdaca1": {
+        id: "digipulse"
+    },
+    "0x78b7fada55a64dd895d8c8c35779dd8b67fa8a05": {
+        id: "atlant"
+    },
+    "0x422866a8f0b032c5cf1dfbdef31a20f4509562b0": {
+        id: "adshares"
+    },
+    "0xd3c00772b24d997a812249ca637a921e81357701": {
+        id: "wild-crypto"
+    },
+    "0xe81d72d14b1516e68ac3190a46c93302cc8ed60f": {
+        id: "coinlancer"
+    },
+    "0x1b22c32cd936cb97c28c5690a0695a82abf688e6": {
+        id: "mywish"
+    },
+    "0xf8e386eda857484f5a12e4b5daa9984e06e73705": {
+        id: "indorse-token"
+    },
+    "0xe2d82dc7da0e6f882e96846451f4fabcc8f90528": {
+        id: "jesus-coin"
+    },
+    "0x8b1f49491477e0fb46a29fef53f1ea320d13c349": {
+        id: "micromoney"
+    },
+    "0x8f0921f30555624143d427b340b1156914882c10": {
+        id: "flypme"
+    },
+    "0xb802b24e0637c2b87d2e8b7784c055bbe921011a": {
+        id: "ethereum-movie-venture"
+    },
+    "0xd341d1680eeee3255b8c4c75bcce7eb57f144dae": {
+        id: "ongsocial"
+    },
+    "0x84119cb33e8f590d75c2d6ea4e6b0741a7494eda": {
+        id: "giga-watt-token"
+    },
+    "0x39013f961c378f02c2b82a6e1d31e9812786fd9d": {
+        id: "speed-mining-service"
+    },
+    "0x1183f92a5624d68e85ffb9170f16bf0443b4c242": {
+        id: "qvolta"
+    },
+    "0x1500205f50bf3fd976466d0662905c9ff254fc9c": {
+        id: "bitboost"
+    },
+    "0x0371a82e4a9d0a4312f3ee2ac9c6958512891372": {
+        id: "student-coin"
+    },
+    "0xe8a1df958be379045e2b46a31a98b93a2ecdfded": {
+        id: "ethersportz"
+    },
+    "0x44197a4c44d6a059297caf6be4f7e172bd56caaf": {
+        id: "eltcoin"
+    },
+    "0x2bdc0d42996017fce214b21607a515da41a9e0c5": {
+        id: "skincoin"
+    },
+    "0xe64509f0bf07ce2d29a7ef19a8a9bc065477c1b4": {
+        id: "piplcoin"
+    },
+    "0x7703c35cffdc5cda8d27aa3df2f9ba6964544b6e": {
+        id: "pylon-network"
+    },
+    "0xe120c1ecbfdfea7f0a8f0ee30063491e8c26fedf": {
+        id: "suretly"
+    },
+    "0x26d5bd2dfeda983ecd6c39899e69dae6431dffbb": {
+        id: "erc20"
+    },
+    "0x0835ecd15ddf08d4786304d71b4672dc5c40f011": {
+        id: "pluscoin"
+    },
+    "0x02725836ebf3ecdb1cdf1c7b02fcbbfaa2736af8": {
+        id: "bitair"
+    },
+    "0x47dd62d4d075dead71d0e00299fc56a2d747bebb": {
+        id: "equal"
+    },
+    "0x2daee1aa61d60a252dc80564499a69802853583a": {
+        id: "authorship"
+    },
+    "0xab95e915c123fded5bdfb6325e35ef5515f1ea69": {
+        id: "xenon"
+    },
 }
