@@ -394,5 +394,284 @@ module.exports = {
     },
     "0xe7775a6e9bcf904eb39da2b68c5efb4f9360e08c": {
         id: "taas"
+    },
+    "0x4cf488387f035ff08c371515562cba712f9015d4": {
+        id: "wepower"
+    },
+    "0xf85feea2fdd81d51177f6b8f35f0e6734ce45f5f": {
+        id: "cybermiles"
+    },
+    "0x27054b13b1b798b345b591a4d22e6562d47ea75a": {
+        id: "airswap"
+    },
+    "0xea38eaa3c86c8f9b751533ba2e562deb9acded40": {
+        id: "etherparty"
+    },
+    "0x957c30ab0426e0c93cd8241e2c60392d08c6ac8e": {
+        id: "modum"
+    },
+    "0xc5bbae50781be1669306b9e001eff57a2957b09d": {
+        id: "gifto"
+    },
+    "0x27695e09149adc738a978e9a678f99e4c39e9eb9": {
+        id: "kickico"
+    },
+    "0x72dd4b6bd852a3aa172be4d6c5a6dbec588cf131": {
+        id: "naga"
+    },
+    "0x6c2adc2073994fb2ccc5032cc2906fa221e9b391": {
+        id: "delphy"
+    },
+    "0x554c20b7c486beee439277b4540a434566dc4c02": {
+        id: "decision-token"
+    },
+    "0x0abdace70d3790235af448c88547603b945604ea": {
+        id: "district0x"
+    },
+    "0xfa05A73FfE78ef8f1a739473e462c54bae6567D9": {
+        id: "lunyr"
+    },
+    "0xd0d6d6c5fe4a677d343cc433536bb717bae167dd": {
+        id: "adtoken"
+    },
+    "0xb2f7eb1f2c37645be61d73953035360e768d81e6": {
+        id: "cobinhood"
+    },
+    "0x08f5a9235b08173b7569f83645d2c7fb55e8ccd8": {
+        id: "tierion"
+    },
+    "0xcbcc0f036ed4788f63fc0fee32873d6a7487b908": {
+        id: "humaniq"
+    },
+    "0x5136c98a80811c3f46bdda8b5c4555cfd9f812f0": {
+        id: "indahash"
+    },
+    "0x12fef5e57bf45873cd9b62e9dbd7bfb99e32d73e": {
+        id: "cofound-it"
+    },
+    "0x45245bc59219eeaaf6cd3f382e078a461ff9de7b": {
+        id: "bankex"
+    },
+    "0xc0eb85285d83217cd7c891702bcbc0fc401e2d9d": {
+        id: "hive-project"
+    },
+    "0x80a7e048f37a50500351c204cb407766fa3bae7f": {
+        id: "crypterium"
+    },
+    "0xaaaf91d9b90df800df4f55c205fd6989c977e73a": {
+        id: "tokencard"
+    },
+    "0x96a65609a7b84e8842732deb08f56c3e21ac6f8a": {
+        id: "centra"
+    },
+    "0x88a3e4f35d64aad41a6d4030ac9afe4356cb84fa": {
+        id: "presearch"
+    },
+    "0x24692791bc444c5cd0b81e3cbcaba4b04acd1f3b": {
+        id: "unikoin-gold"
+    },
+    "0x2c974b2d0ba1716e644c1fc59982a89ddd2ff724": {
+        id: "viberate"
+    },
+    "0x41dbecc1cdc5517c6f76f6a6e836adbee2754de3": {
+        id: "medical-chain"
+    },
+    "0x92e52a1a235d9a103d970901066ce910aacefd37": {
+        id: "ucash"
+    },
+    "0x81c9151de0c8bafcd325a57e3db5a5df1cebf79c": {
+        id: "datum"
+    },
+    "0x9b11efcaaa1890f6ee52c6bb7cf8153ac5d74139": {
+        id: "attention-token-of-media"
+    },
+    "0xd65960facb8e4a2dfcb2c2212cb2e44a02e2a57e": {
+        id: "soarcoin"
+    },
+    "0xf3db5fa2c66b7af3eb0c0b782510816cbe4813b8": {
+        id: "everex"
+    },
+    "0x327682779bab2bf4d1337e8974ab9de8275a7ca8": {
+        id: "blockport"
+    },
+    "0x1776e1f26f98b1a5df9cd347953a26dd3cb46671": {
+        id: "numeraire"
+    },
+    "0x516e5436bafdc11083654de7bb9b95382d08d5de": {
+        id: "ormeus-coin"
+    },
+    "0x12b306fa98f4cbb8d4457fdff3a0a0a56f07ccdf": {
+        id: "spectre-dividend"
+    },
+    "0x12b19d3e2ccc14da04fae33e63652ce469b3f2fd": {
+        id: "grid"
+    },
+    "0x9e88613418cf03dca54d6a2cf6ad934a78c7a17a": {
+        id: "swarm-fund"
+    },
+    "0x6781a0f84c7e9e846dcb84a9a5bd49333067b104": {
+        id: "zap"
+    },
+    "0x0b76544f6c413a555f309bf76260d1e02377c02a": {
+        id: "internet-node-token"
+    },
+    "0xba9d4199fab4f26efe3551d490e3821486f135ba": {
+        id: "swissborg"
+    },
+    "0xaf4dce16da2877f8c9e00544c93b62ac40631f16": {
+        id: "monetha"
+    },
+    "0x9e96604445ec19ffed9a5e8dd7b50a29c899a10c": {
+        id: "coss"
+    },
+    "0xf4134146af2d511dd5ea8cdb1c4ac88c57d60404": {
+        id: "suncontract"
+    },
+    "0xae73b38d1c9a8b274127ec30160a4927c4d71824": {
+        id: "stk"
+    },
+    "0x107c4504cd79c5d2696ea0030a8dd4e92601b82e": {
+        id: "bloomtoken"
+    },
+    "0x7a41e0517a5eca4fdbc7fbeba4d4c47b9ff6dc63": {
+        id: "zeusshield"
+    },
+    "0xba5f11b16b155792cf3b2e6880e8706859a8aeb6": {
+        id: "aeron"
+    },
+    "0xcb94be6f13a1182e4a4b6140cb7bf2025d28e41b": {
+        id: "trust"
+    },
+    "0xdf6ef343350780bf8c3410bf062e0c015b1dd671": {
+        id: "blackmoon"
+    },
+    "0xfec0cf7fe078a500abf15f1284958f22049c2c7e": {
+        id: "maecenas"
+    },
+    "0xfb2f26f266fb2805a387230f2aa0a331b4d96fba": {
+        id: "dadi"
+    },
+    "0x89d24a6b4ccb1b6faa2625fe562bdd9a23260359": {
+        id: "dai"
+    },
+    "0x4092678e4e78230f46a1534c0fbc8fa39780892b": {
+        id: "odyssey"
+    },
+    "0x07e3c70653548b04f0a75970c1f81b4cbbfb606f": {
+        id: "agrello-delta"
+    },
+    "0xd01db73e047855efb414e6202098c4be4cd2423b": {
+        id: "uquid-coin"
+    },
+    "0x04f2e7221fdb1b52a68169b25793e51478ff0329": {
+        id: "cappasity"
+    },
+    "0xf7b098298f7c69fc14610bf71d5e02c60792894c": {
+        id: "guppy"
+    },
+    "0x4cc19356f2d37338b9802aa8e8fc58b0373296e7": {
+        id: "selfkey"
+    },
+    "0xaa0bb10cec1fa372eb3abc17c933fc6ba863dd9e": {
+        id: "hi-mutual-society"
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
+    },
+    "": {
+        id: ""
     }
 }
