@@ -62,18 +62,6 @@ module.exports = {
     "0x5e4abe6419650ca839ce5bb7db422b881a6064bb": {
         id: "wi-coin"
     },
-    "0x629aee55ed49581c33ab27f9403f7992a289ffd5": {
-        name: "StrikeCoin Token"
-    },
-    "0xf41e5fbc2f6aac200dd8619e121ce1f05d150077": {
-        name: "CrycashToken"
-    },
-    "0x42901532700341c0b26854fa7c0eda1a66f1158e": {
-        name: "Geo Coins"
-    },
-    "0x45555629aabfea138ead1c1e5f2ac3cce2add830": {
-        name: "CandyHCoin"
-    },
     "0x78b039921e84e726eb72e7b1212bb35504c645ca": {
         id: "sether"
     },
